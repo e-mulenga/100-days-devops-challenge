@@ -352,7 +352,7 @@ aws --version
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/terraform-aws-tasks-solutions.git
+git clone https://github.com/e-mulenga/100-days-devops-challenge.git
 cd terraform-aws-tasks-solutions
 ```
 
